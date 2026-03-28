@@ -1,5 +1,5 @@
 # Henry Gayer Bruschini Wan
-# Grupo
+# Grupo RA1-8
 
 import argparse
 import struct
@@ -350,7 +350,7 @@ class GeradorAssembly:
         # secao .rodata: constantes double e tabela de segmentos
         linhas.append(
             "@ HENRY GAYER BRUSCHINI WAN\n"
-            "@ GRUPO\n"
+            "@ GRUPO RA1-8\n"
             "    .arch   armv7-a\n"
             "    .fpu    vfpv3-d16\n"
             "    .syntax unified\n"
