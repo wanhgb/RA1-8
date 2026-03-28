@@ -1,3 +1,9 @@
+PUCPR
+LINGUAGENS FORMAIS E COMPILADORES
+FRANK COELHO DE ALCANTARA
+HENRY GAYER BRUSCHINI WAN
+
+
 Programa em Python que lê expressões matemáticas de um arquivo .txt, realiza a analise léxica
 e gera código Assembly equivalente, junto de um resultado calculado pelo python para validar o resultado do assembly gerado.
 
