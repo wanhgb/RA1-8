@@ -2,7 +2,7 @@ Programa em Python que lê expressões matemáticas de um arquivo .txt, realiza 
 e gera código Assembly equivalente, junto de um resultado calculado pelo python para validar o resultado do assembly gerado.
 
 
-Como usar:
+Como usar(execução):
 python programa.py entrada.txt
 
 
@@ -13,7 +13,7 @@ Isso irá:
 Ler as expressões do arquivo ao se utilizar da função lerArquivo
 Tokeniza cada linha usando a função parserExpressao
     com os tokens duas funções rodas:
-    Mostrar o resultado de cada expressão calculadas por executarExpressao
+    Mostrar o resultado de cada expressão calculadas por executarExpressao e os erros e as memorias
     Utiliza os tokens para gerar um código assembly com as intruções para realizar cada operação
 
 Gerar um arquivo .s com o código Assembly
